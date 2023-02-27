@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning React and Laravel
 - 📫 How to reach me: 
 - 📧 Email - jan.sebesta88@gmail.com
-- 💼 LinkedIn: [Jan Sebesta](https://www.linkedin.com/in/jansebestacz/)
--       
+- 💼 LinkedIn: [Jan Sebesta](https://www.linkedin.com/in/jansebestacz/)  
 - ⚡ Fun fact: It is better to be a warrior in a garden than to be a gardener in a war.
 
 ## 💻 Skills
