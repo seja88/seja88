@@ -2,7 +2,7 @@
 
 ## I'm a frontend developer based in Prague!
 
-- 🔭 I finished Coding Bootcamp Prague
+<!-- - 🔭 I finished Coding Bootcamp Prague -->
 - 🌱 I’m currently learning React and Laravel
 - 📫 How to reach me: 
 - 📧 Email - jan.sebesta88@gmail.com
@@ -24,5 +24,5 @@
 - in progress
 
 ## 🎨 Hobbies
-- Reading books
 - Hiking
+- Reading books
